@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="xhdpi"
+    format="7"
+    timestamp="43192320014374" >
+
+    <task
+        name="javac"
+        duration="766" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="286" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="C:\Users\Victor\Desktop\PersistenciaFireBase\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+
+    <build timestamp="42414590340757" >
+        <artifact
+            location="C:\Users\Victor\Desktop\PersistenciaFireBase\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="43132350190524"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\Victor\Desktop\PersistenciaFireBase\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\Victor\Desktop\PersistenciaFireBase\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Victor\Desktop\PersistenciaFireBase\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Victor\Desktop\PersistenciaFireBase\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="43192320014374" >
+        <artifact
+            location="C:\Users\Victor\Desktop\PersistenciaFireBase\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\wolsc\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_google.xml",
+        "source": "C:\\Users\\wolsc\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_twitter.xml",
+        "source": "C:\\Users\\Victor\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\wolsc\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_twitter.xml",
+        "source": "C:\\Users\\wolsc\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_google.xml",
+        "source": "C:\\Users\\Victor\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\account.xml",
+        "source": "C:\\Users\\Victor\\Desktop\\PersistenciaFireBase\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Victor\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_facebook.xml",
+        "source": "C:\\Users\\Victor\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_facebook.xml"
+    },
+    {
+        "merged": "C:\\Users\\wolsc\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_facebook.xml",
+        "source": "C:\\Users\\wolsc\\Desktop\\PersistenciaFireBase\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_facebook.xml"
+    }
+]
